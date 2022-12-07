@@ -36,7 +36,6 @@
   </style>
 </head>
 <body>
-  sds
   <form class="login-form" action="login.php" method="post">
     <h2>Login</h2>
     <input type="text" name="username" placeholder="Username" required>
